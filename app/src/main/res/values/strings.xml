@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smorgasburg App</string>
+    <string name="assorted_foods">assorted foods</string>
+    <string name="Food_Name">Food Name</string>
+</resources>
