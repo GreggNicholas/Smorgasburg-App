@@ -13,7 +13,6 @@ public class GrubInfo extends AppCompatActivity {
     private TextView foodDescriptionView;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -37,10 +36,9 @@ public class GrubInfo extends AppCompatActivity {
         foodDescription = intent.getStringExtra("Food Description");
         foodImage = intent.getExtras().getInt("Food Picture");
 
-       foodNameView.setText(foodName);
-       foodDescriptionView.setText(foodDescription);
-       foodImageView.setImageResource(foodImage);
-
+        foodNameView.setText(foodName);
+        foodDescriptionView.setText(foodDescription);
+        foodImageView.setImageResource(foodImage);
 
 
     }
