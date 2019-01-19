@@ -6,7 +6,7 @@
     android:id="@+id/slash_screens"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".SplashPage">
+    tools:context="Notification_App_HW_Nicholas_Gregg.SplashPage">
 
 
     <ImageView

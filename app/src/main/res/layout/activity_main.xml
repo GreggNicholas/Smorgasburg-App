@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="Notification_App_HW_Nicholas_Gregg.MainActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerview_Smorgasburg"

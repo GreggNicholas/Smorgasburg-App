@@ -6,12 +6,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/colorPrimaryDark"
-    tools:context=".GrubInfo">
+    tools:context="Notification_App_HW_Nicholas_Gregg.GrubInfo">
 
     <android.support.v4.widget.NestedScrollView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="196dp"
         android:padding="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -28,23 +27,23 @@
                 android:layout_height="300dp"
                 android:scaleType="centerCrop" />
 
+            <TextView
+                android:id="@+id/food_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Food_Name"
+                android:textColor="#ffff"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/food_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
 
         </LinearLayout>
 
-        <TextView
-            android:id="@+id/food_name"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/Food_Name"
-            android:textColor="#ffff"
-            android:textSize="20sp" />
 
-        <TextView
-            android:id="@+id/food_description"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-
-            />
+        />
     </android.support.v4.widget.NestedScrollView>
 
 

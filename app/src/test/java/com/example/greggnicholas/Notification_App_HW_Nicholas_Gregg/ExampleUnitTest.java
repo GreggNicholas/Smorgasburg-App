@@ -1,4 +1,4 @@
-package com.example.greggnicholas.smorgasburgapp;
+package com.example.greggnicholas.Notification_App_HW_Nicholas_Gregg;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.greggnicholas.smorgasburgapp;
+package Notification_App_HW_Nicholas_Gregg;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.greggnicholas.smorgasburgapp.Model.Food;
+import com.example.greggnicholas.Notification_App_HW_Nicholas_Gregg.R;
+
+import Notification_App_HW_Nicholas_Gregg.Model.Food;
 
 import java.util.List;
 

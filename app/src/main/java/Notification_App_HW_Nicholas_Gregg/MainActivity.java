@@ -1,4 +1,4 @@
-package com.example.greggnicholas.smorgasburgapp;
+package Notification_App_HW_Nicholas_Gregg;
 
 import android.app.NotificationManager;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,9 @@ import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.example.greggnicholas.smorgasburgapp.Model.Food;
+import com.example.greggnicholas.Notification_App_HW_Nicholas_Gregg.R;
+
+import Notification_App_HW_Nicholas_Gregg.Model.Food;
 
 import java.util.ArrayList;
 import java.util.List;

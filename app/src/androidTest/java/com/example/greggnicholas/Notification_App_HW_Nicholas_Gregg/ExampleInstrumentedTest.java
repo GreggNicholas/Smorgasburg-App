@@ -1,4 +1,4 @@
-package com.example.greggnicholas.smorgasburgapp;
+package com.example.greggnicholas.Notification_App_HW_Nicholas_Gregg;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.greggnicholas.smorgasburgapp", appContext.getPackageName());
+        assertEquals("com.example.greggnicholas.Notification_App_HW_Nicholas_Gregg", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.greggnicholas.smorgasburgapp.Model;
+package Notification_App_HW_Nicholas_Gregg.Model;
 
 import android.support.annotation.NonNull;
 
